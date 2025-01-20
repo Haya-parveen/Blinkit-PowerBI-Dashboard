@@ -31,14 +31,6 @@ This dashboard was created as part of my data analytics learning journey to enha
 2. Load the dataset into Power BI.
 3. Follow the steps in the tutorial to recreate the dashboard.
 
-## Repository Contents
-- **Dashboard Screenshot:**
-  ![Dashboard Screenshot](assets/Blinkit_Dashboard.png)
-- **PBIX File:**
-  - The Power BI dashboard file is included for exploration.
-- **Supporting Documentation:**
-  - A brief walkthrough of the dashboard.
-
 ## Acknowledgments
 - Dataset provided by [YouTube Tutorial](https://www.youtube.com/watch?v=mmxVCFceQgU).
 

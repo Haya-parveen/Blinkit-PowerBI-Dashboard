@@ -33,7 +33,7 @@ This dashboard was created as part of my data analytics learning journey to enha
 
 ## Repository Contents
 - **Dashboard Screenshot:**
-  ![Blinkit Dashboard](Blinkit_Dashboard.png)
+  ![Dashboard Screenshot](assets/Blinkit_Dashboard.png)
 - **PBIX File:**
   - The Power BI dashboard file is included for exploration.
 - **Supporting Documentation:**
